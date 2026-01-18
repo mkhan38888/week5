@@ -10,3 +10,7 @@ def insertion_sort_desc(arr):
             j -= 1
 
         arr[j + 1] = key
+
+
+numbers = [12, 11, 13, 5, 6]
+print("Original list:", numbers)
