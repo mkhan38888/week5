@@ -14,3 +14,6 @@ def insertion_sort_desc(arr):
 
 numbers = [12, 11, 13, 5, 6]
 print("Original list:", numbers)
+
+insertion_sort_desc(numbers)
+print("Sorted in decreasing order:", numbers)
